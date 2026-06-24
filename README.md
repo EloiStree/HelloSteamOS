@@ -1,4 +1,11 @@
 
+I bought a Steam Deck to learn
+THen bought the Steam Machine to publish Godot Game
+And I am going to buy the Steam Frame because I am a Godot XR developer.
+
+All that you to say. I am going to be full time on the system.|
+
+So if you have Godot / Game Dev question, feel free to ping me on Discord or Issue.
 
 # Hello, Steam Deck OS  
 Let's code a game for the Steam Deck!  
