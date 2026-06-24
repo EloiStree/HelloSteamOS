@@ -1,3 +1,6 @@
+[<img width="1338" height="351" alt="image" src="https://github.com/user-attachments/assets/4fbec6d5-1e75-43d2-8768-4513900638b7" />](https://youtu.be/8PpCZxQ-lrE?t=71)   
+https://youtu.be/8PpCZxQ-lrE?t=71    
+
 
 I bought a Steam Deck to learn
 THen bought the Steam Machine to publish Godot Game
