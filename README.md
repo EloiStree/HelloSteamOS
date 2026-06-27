@@ -2,6 +2,12 @@
 https://youtu.be/8PpCZxQ-lrE?t=71    
 
 
+[<img width="808" height="446" alt="image" src="https://github.com/user-attachments/assets/98be7d33-97f1-44e4-996a-785618d030d2" />](https://korben.info/steam-machine-teardown-ram-64go-ssd-4to.html)
+- https://korben.info/steam-machine-teardown-ram-64go-ssd-4to.html
+- https://www.youtube.com/watch?v=e94U4z5nfJw
+
+
+
 I bought a Steam Deck to learn
 THen bought the Steam Machine to publish Godot Game
 And I am going to buy the Steam Frame because I am a Godot XR developer.
