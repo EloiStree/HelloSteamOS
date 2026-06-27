@@ -2,7 +2,8 @@
 https://youtu.be/8PpCZxQ-lrE?t=71    
 
 
-[<img width="808" height="446" alt="image" src="https://github.com/user-attachments/assets/98be7d33-97f1-44e4-996a-785618d030d2" />](https://korben.info/steam-machine-teardown-ram-64go-ssd-4to.html)
+[<img width="808" height="446" alt="image" src="https://github.com/user-attachments/assets/98be7d33-97f1-44e4-996a-785618d030d2" />](https://korben.info/steam-machine-teardown-ram-64go-ssd-4to.html)    
+[<img width="809" height="452" alt="image" src="https://github.com/user-attachments/assets/776104e3-9f2c-45fd-aa12-e7c20e7ea269" />](https://korben.info/steam-machine-teardown-ram-64go-ssd-4to.html)   
 - https://korben.info/steam-machine-teardown-ram-64go-ssd-4to.html
 - https://www.youtube.com/watch?v=e94U4z5nfJw
 
